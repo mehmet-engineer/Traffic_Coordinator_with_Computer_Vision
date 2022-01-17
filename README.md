@@ -1,0 +1,2 @@
+# General_Traffic_Coordinator_Algorithm
+Genel Trafik Koordinatörü Algoritması
