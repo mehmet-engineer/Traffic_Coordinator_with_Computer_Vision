@@ -17,6 +17,7 @@ Araç Tespiti ve YOLO V4 için -> https://github.com/mehmet-engineer/YOLO_V4_Ara
 
 
 Emniyet şeridi tespiti için “Hough Line” teorisi kullanılmıştır. Algılanan şeritlerin konumuna göre araçların seyri denetlenebilmekte ve ihlal gerçekleştiğinde anlık olarak bildirim sağlanabilmektedir.
+
 Şerit Tespiti ve HoughLine Teorisi için -> https://github.com/mehmet-engineer/OpenCV_Serit_Tespit_Yazilimi
 
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/serit.png)
