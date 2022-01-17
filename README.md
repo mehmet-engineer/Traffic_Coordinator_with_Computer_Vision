@@ -10,11 +10,12 @@ yoluyla ilgili kuruma iletilmektedir.
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/algoritma.png)
 
 
-YOLOv4-tiny tespit edilen araçlar
+Trafik araçlarının tanınması için YOLO V4 Tiny nesne tespit algoritması kullanılmıştır. Tespit edilen kara araçları araba, otobüs, ağır vasıta olmak üzere 3 ayrı kategoride değerlendirilmektedir. Yazılımda araçların sınıflarına göre sayımı yapılmaktadır. Böylece trafik yoğunluğu belirlenmektedir.
 
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/arac_tespit.png)
 
-Emniyet şeridi tespiti için “Hough Line Detection” teorisi kullanılmıştır. 
 
-![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/serit_tespit.png)
+Emniyet şeridi tespiti için “Hough Line” teorisi kullanılmıştır. 
+
+![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/serit.png)
 
