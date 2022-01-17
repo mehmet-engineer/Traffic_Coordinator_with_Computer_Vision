@@ -1,0 +1,51 @@
+
+    
+    GOKUCARI 21 TRAFIK KOORDINATORU IHA
+    TRAFIK RAPORU
+    ------------------
+
+    Gorevin yapildigi tarih = 14.1.2022
+    Gorevin yapildigi saat = 10:32
+
+    TESPIT EDILEN ARACLAR:
+    1 Araba,
+    0 Agir Arac,
+    olmak uzere toplam 1 tasit tespit edildi.
+
+    DENETLENEN SERIT IHLALLERI:
+Saat 10:31:47 --> ihlal_fotolar/ihlal_tespit_7310.jpg
+Saat 10:31:47 --> ihlal_fotolar/ihlal_tespit_2508.jpg
+Saat 10:31:48 --> ihlal_fotolar/ihlal_tespit_8554.jpg
+Saat 10:31:49 --> ihlal_fotolar/ihlal_tespit_3010.jpg
+Saat 10:31:49 --> ihlal_fotolar/ihlal_tespit_7028.jpg
+Saat 10:31:49 --> ihlal_fotolar/ihlal_tespit_2084.jpg
+Saat 10:31:50 --> ihlal_fotolar/ihlal_tespit_5148.jpg
+Saat 10:31:50 --> ihlal_fotolar/ihlal_tespit_5847.jpg
+Saat 10:31:50 --> ihlal_fotolar/ihlal_tespit_2032.jpg
+Saat 10:31:50 --> ihlal_fotolar/ihlal_tespit_225.jpg
+Saat 10:31:50 --> ihlal_fotolar/ihlal_tespit_4152.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_5378.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_5859.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_2082.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_9677.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_8213.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_9713.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_6627.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_8656.jpg
+Saat 10:31:51 --> ihlal_fotolar/ihlal_tespit_5681.jpg
+Saat 10:31:52 --> ihlal_fotolar/ihlal_tespit_1527.jpg
+Saat 10:31:52 --> ihlal_fotolar/ihlal_tespit_3194.jpg
+Saat 10:31:52 --> ihlal_fotolar/ihlal_tespit_5350.jpg
+Saat 10:31:53 --> ihlal_fotolar/ihlal_tespit_7117.jpg
+Saat 10:31:53 --> ihlal_fotolar/ihlal_tespit_2322.jpg
+Saat 10:31:53 --> ihlal_fotolar/ihlal_tespit_420.jpg
+Saat 10:31:53 --> ihlal_fotolar/ihlal_tespit_1166.jpg
+Saat 10:31:54 --> ihlal_fotolar/ihlal_tespit_8142.jpg
+Saat 10:31:54 --> ihlal_fotolar/ihlal_tespit_2336.jpg
+Saat 10:31:54 --> ihlal_fotolar/ihlal_tespit_9999.jpg
+Saat 10:31:54 --> ihlal_fotolar/ihlal_tespit_7836.jpg
+Saat 10:31:55 --> ihlal_fotolar/ihlal_tespit_9118.jpg
+
+    -----------------------------------------------------------------
+
+    
