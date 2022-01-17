@@ -7,5 +7,14 @@ emniyet şeridi tespiti ve denetleme olmak üzere 3 ayrı bölümden oluşmaktad
 Araçlar şerit ihlali yaptığı sıradaki görüntüsü İHA kamerası üzerinden yüksek çözünürlüklü olarak alınabilmektedir. Alınan bu ihlal fotoğrafları anlık olarak mail 
 yoluyla ilgili kuruma iletilmektedir.
 
+![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/algoritma.png)
 
-Emniyet şeridi tespiti için “Hough Line Detection” teorisi kullanılmıştır. “YOLOv4-tiny” yöntemiyle tespit edilen araçlar
+
+YOLOv4-tiny tespit edilen araçlar
+
+![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/arac_tespit.png)
+
+Emniyet şeridi tespiti için “Hough Line Detection” teorisi kullanılmıştır. 
+
+![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/serit_tespit.png)
+
