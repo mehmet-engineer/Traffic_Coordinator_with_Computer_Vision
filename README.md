@@ -1,24 +1,19 @@
-# Genel Trafik Koordinatörü Algoritması
+# General Traffic Coordinator Algorithm
 
-Algoritma, insansız hava araçlarına trafik denetleyicisi görev kabiliyeti kazandırmak üzere tasarlanmıştır. Özellikle Quadcopter İHA'ların (drone) kamerasına entegre 
-edilmek üzere Python dilinde şahsımca özgün olarak geliştirilmiştir. Günümüzde birçok araç sürücüsü emniyet şeridini kullanarak diğer sürücülerin hakkını gasp etmekte,
-trafikteki adalet duygusunun sarsılmasına sebep olmaktadır. Bu soruna bir çözüm olarak geliştirilen Trafik Koordinatörü İHA'nın görev algoritması araç tespiti, 
-emniyet şeridi tespiti ve denetleme olmak üzere 3 ayrı bölümden oluşmaktadır. Tek bir yazılım döngüsü içerisinde araçların şerit içerisinde seyri denetlenebilmektedir. 
-Araçlar şerit ihlali yaptığı sıradaki görüntüsü İHA kamerası üzerinden yüksek çözünürlüklü olarak alınabilmektedir. Alınan bu ihlal fotoğrafları anlık olarak mail 
-yoluyla ilgili kuruma iletilmektedir.
+The algorithm is designed to give unmanned aerial vehicles the ability to act as traffic controllers. It has been specifically developed by myself in Python language to be integrated into the camera of Quadcopter UAVs (drone). Today, many vehicle drivers usurp the rights of other drivers by using the safety lane, causing the sense of justice in traffic to be shaken. The task algorithm of the Traffic Coordinator UAV, which was developed as a solution to this problem, consists of 3 separate parts: vehicle detection, safety lane detection and inspection. The course of the vehicles in the lane can be monitored in a single software cycle. The images of the vehicles when they violate the lane can be taken in high resolution via the UAV camera. These violation photos are sent instantly to the relevant institution via e-mail.
 
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/algoritma.png)
 
 
-Trafik araçlarının tanınması için YOLO V4 Tiny nesne tespit algoritması kullanılmıştır. Tespit edilen kara araçları araba, otobüs, ağır vasıta olmak üzere 3 ayrı kategoride değerlendirilmektedir. Yazılımda araçların sınıflarına göre sayımı yapılmaktadır. Böylece trafik yoğunluğu belirlenmektedir.
-Araç Tespiti ve YOLO V4 için -> https://github.com/mehmet-engineer/YOLO_V4_Arac_Kontrol_Algoritmasi
+YOLO V4 Tiny object detection algorithm is used for the recognition of traffic vehicles. The detected land vehicles are evaluated in 3 different categories as cars, buses and heavy vehicles. The software is counted according to the classes of vehicles. Thus, the traffic density is determined.
+For Vehicle Detection and YOLO V4 -> https://github.com/mehmet-engineer/YOLO_V4_Car_Control_Algorithm
 
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/arac_tespit.png)
 
 
-Emniyet şeridi tespiti için “Hough Line” teorisi kullanılmıştır. Algılanan şeritlerin konumuna göre araçların seyri denetlenebilmekte ve ihlal gerçekleştiğinde anlık olarak bildirim sağlanabilmektedir.
+“Hough Line” theory is used for safety lane detection. According to the position of the detected lanes, the course of the vehicles can be monitored and instant notification can be provided when a violation occurs.
 
-Şerit Tespiti ve HoughLine Teorisi için -> https://github.com/mehmet-engineer/OpenCV_Serit_Tespit_Yazilimi
+For Lane Detection and HoughLine Theory -> https://github.com/mehmet-engineer/OpenCV_Lane_Detection
 
 ![resim](https://github.com/mehmet-engineer/General_Traffic_Coordinator_Algorithm/blob/master/serit.png)
 
